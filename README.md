@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonathan619
 - 👀 I’m interested in ... learning new algorithms and programming languages.
 - 🌱 I’m currently learning ... a little bit of Java.
-- 💞️ I’m looking to collaborate on ... any intership or startup.
+- 💞️ I’m looking to collaborate on ... any internship or startup.
 - 📫 How to reach me ... via email on a01640100@itesm.mx
 
 <!---
