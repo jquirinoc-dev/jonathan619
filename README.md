@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning new algorithms and programming languages.
 - 🌱 I’m currently learning ... a little bit of Java.
 - 💞️ I’m looking to collaborate on ... any internship or startup.
-- 📫 How to reach me ... via email on a01640100@itesm.mx
+- 📫 How to reach me ... via email either on a01640100@itesm.mx or jonathanquirino02@gmail.com
 
 <!---
 jonathan619/jonathan619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
