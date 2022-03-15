@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jonathan619
+- 👋 Hi, I’mJonathan J Quirino
 - 👀 I’m interested in ... learning new algorithms and programming languages.
-- 🌱 I’m currently learning ... algorithms and data structures.
+- 🌱 I’m currently learning ... Web, videogame and databases development.
 - 💞️ I’m looking to collaborate on ... any internship or startup.
 - 📫 How to reach me ... via email either on a01640100@itesm.mx or jonathanquirino02@gmail.com
 
