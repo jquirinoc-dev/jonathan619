@@ -1,4 +1,4 @@
-- 👋 Hi, I’mJonathan J Quirino
+- 👋 Hi, I’m Jonathan J Quirino
 - 👀 I’m interested in ... learning new algorithms and programming languages.
 - 🌱 I’m currently learning ... Web, videogame and databases development.
 - 💞️ I’m looking to collaborate on ... any internship or startup.
